@@ -1,0 +1,29 @@
+body {
+  background-color: whitesmoke;
+}
+
+.red {
+  background-color: red;
+  height: 100px;
+  width: 80%;
+  margin: 5px;
+  padding: 5px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+p {
+  font-size: 30px;
+  margin: 10px;
+  float: right;
+}
+
+button {
+  font-size: 25px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: Ivory;
+
+}
